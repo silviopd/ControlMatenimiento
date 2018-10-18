@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ControlMatenimiento</string>
+    <string-array name="menu">
+        <item>Editar</item>
+        <item>Eliminar</item>
+    </string-array>
+</resources>
